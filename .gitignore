@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# 仮想環境
+venv/
+
+# データ（CSVログなど任意で除外）
+logs.csv
