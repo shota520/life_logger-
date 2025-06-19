@@ -22,7 +22,7 @@ Streamlit製のシンプルなライフログツールです。
 ---
 
 ## 🖥️ 起動方法（初回）
-
+```bash
 git clone https://github.com/yourname/life_logger.git
 cd life_logger
 python -m venv venv
@@ -30,8 +30,9 @@ venv\Scripts\activate   # ← Windows の場合
 pip install -r requirements.txt
 streamlit run app.py
 
+---
 
-🧠 このアプリの狙い
+##🧠 このアプリの狙い
 ・日記より軽く、ToDoより深く
 ・内省・習慣化・感情の記録を毎日3分で完結
 ・ローカル実行＆CSV保存で超シンプルに使える自己観察ツール
