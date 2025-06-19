@@ -23,7 +23,6 @@ Streamlit製のシンプルなライフログツールです。
 
 ## 🖥️ 起動方法（初回）
 
-```bash
 git clone https://github.com/yourname/life_logger.git
 cd life_logger
 python -m venv venv
